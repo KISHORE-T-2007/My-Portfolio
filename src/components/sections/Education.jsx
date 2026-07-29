@@ -42,11 +42,12 @@ const Education = () => {
 
             <h3 className="subsection-title">Certifications</h3>
             <ul className="cert-list">
-                <li className="clickable"><span className="cert-icon">📜</span> CCNA: Introduction to Networks – Cisco</li>
-                <li className="clickable"><span className="cert-icon">📜</span> Java Foundation – Oracle</li>
-                <li className="clickable"><span className="cert-icon">📜</span> Relational Database Design – Oracle</li>
-                <li className="clickable"><span className="cert-icon">📜</span> Cybersecurity Basics – IBM</li>
-                <li className="clickable"><span className="cert-icon">⏳</span> Network Hacking Course 2025 – Udemy (Pursuing)</li>
+                <li className="clickable"><span className="cert-icon">📜</span> Ethical Hacking – SWAYAM platform</li>
+                <li className="clickable"><span className="cert-icon">📜</span> Build a Free Website with WordPress – Coursera (Grade: 100%)</li>
+                <li className="clickable"><span className="cert-icon">⏳</span> Wireshark (TOOL) & Packet Analysis - Udemy (Pursuing)</li>
+                <li className="clickable"><span className="cert-icon">⏳</span> Digital Forensics : Computer Forensics DFMC + DFIR - Udemy (Pursuing)</li>
+                <li className="clickable"><span className="cert-icon">⏳</span> Network Security : Defending Against Cyber Threats - Udemy (Pursuing)</li>
+                <li className="clickable"><span className="cert-icon">⏳</span> Network Hacking Course 20025 : Beginner to Advanced - Udemy (Pursuing)</li>
             </ul>
         </motion.section>
     );
